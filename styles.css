@@ -1,4 +1,4 @@
-main {
+menu-list {
     align-items: center;
     display: flex;
     justify-content: space-evenly;
@@ -39,7 +39,7 @@ footer {
 
 head {
     font-family: Papyrus;
-    font-size: 20;
+    font-size: 50;
     max-width: 500px;
 }
 
