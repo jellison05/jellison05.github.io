@@ -1,13 +1,13 @@
-menu-list {
-    align-items: center;
-    display: flex;
-    justify-content: space-evenly;
-}
-
 header {
     align-items: center;
     color: #465E83;
     background-color: #F5B87A;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+menu-list {
+    align-items: center;
     display: flex;
     justify-content: space-evenly;
 }
