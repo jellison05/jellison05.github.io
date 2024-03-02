@@ -13,6 +13,7 @@ footer {
 
 .lightcoral-background {
     background-color: lightcoral;
+    display: flex;
 }
 
 .centered {
